@@ -162,6 +162,14 @@ npm run dev
 * Real-time collaboration features
 
 ---
+Frontend URL:
+https://veda-ai-pi-drab.vercel.app
+
+Backend URL:
+https://vedaai-backend-tc3v.onrender.com
+
+GitHub:
+https://github.com/KRITIKA233CODER/vedaAI
 
 ## Author
 
